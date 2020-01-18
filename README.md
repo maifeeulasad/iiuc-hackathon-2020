@@ -24,4 +24,4 @@ Here is some snap, related to that :
 
 
 # References :
- - Ice concentration estimation from dual-polarized SAR images using deep convolutional neural networks [Lei Wang, Student Member, IEEE, K.Andrea Scott, Member, IEEE, Linlin Xu, Member, IEEE, David A. Clausi, Senior Member, IEEE](https://uwaterloo.ca/vision-image-processing-lab/sites/ca.vision-image-processing-lab/files/uploads/files/2015-jan-tgrs_cnnsariceconcentration_3.pdf)
+ - Ice concentration estimation from dual-polarized SAR images using deep convolutional neural networks, by - [Lei Wang, Student Member, IEEE, K.Andrea Scott, Member, IEEE, Linlin Xu, Member, IEEE, David A. Clausi, Senior Member, IEEE](https://uwaterloo.ca/vision-image-processing-lab/sites/ca.vision-image-processing-lab/files/uploads/files/2015-jan-tgrs_cnnsariceconcentration_3.pdf)
