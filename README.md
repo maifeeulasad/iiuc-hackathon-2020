@@ -21,3 +21,7 @@ Here is some snap, related to that :
 ![sar2](https://github.com/maifeeulasad/iiuc-hackathon-2020/blob/master/ss/Screenshot%20(101).png)
 
 # Take a moment and see, there is some change. only when there is defect on the road, it detects, outside of the road it doesn't detect.
+
+
+# References :
+ - Ice concentration estimation from dual-polarized SAR images using deep convolutional neural networks [Lei Wang, Student Member, IEEE, K.Andrea Scott, Member, IEEE, Linlin Xu, Member, IEEE, David A. Clausi, Senior Member, IEEE]
