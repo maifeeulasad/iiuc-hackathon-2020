@@ -24,7 +24,8 @@ Here is some snap, related to that :
 
 
 # Presentation 
- - https://github.com/maifeeulasad/iiuc-hackathon-2020/blob/master/33.pdf
+ - PPTX - https://github.com/maifeeulasad/iiuc-hackathon-2020/blob/master/33.pptx
+ - PDF - https://github.com/maifeeulasad/iiuc-hackathon-2020/blob/master/33.pdf
  - Online render, in case you face problem with pdf - https://github.com/maifeeulasad/iiuc-hackathon-2020/blob/master/slides/slides.md
 
 
