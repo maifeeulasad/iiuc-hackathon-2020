@@ -23,5 +23,10 @@ Here is some snap, related to that :
 # Take a moment and see, there is some change. only when there is defect on the road, it detects, outside of the road it doesn't detect.
 
 
+# Presentation 
+ - https://github.com/maifeeulasad/iiuc-hackathon-2020/blob/master/33.pdf
+ - Online render, in case you face problem with pdf - https://github.com/maifeeulasad/iiuc-hackathon-2020/blob/master/slides/slides.md
+
+
 # References :
  - Ice concentration estimation from dual-polarized SAR images using deep convolutional neural networks, by - [Lei Wang, Student Member, IEEE, K.Andrea Scott, Member, IEEE, Linlin Xu, Member, IEEE, David A. Clausi, Senior Member, IEEE](https://uwaterloo.ca/vision-image-processing-lab/sites/ca.vision-image-processing-lab/files/uploads/files/2015-jan-tgrs_cnnsariceconcentration_3.pdf)
